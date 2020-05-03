@@ -1,0 +1,2 @@
+php_value default_charset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml

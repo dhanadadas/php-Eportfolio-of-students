@@ -1,0 +1,6 @@
+/* input*/
+input, select {width: 100%; padding: 3px; border: 1px solid #ccc;}
+option:nth-child(0)::after {
+	content: " " url(http://www.blogger.com/img/icon_28_followers.png);
+	vertical-align: middle;
+}

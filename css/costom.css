@@ -1,0 +1,32 @@
+.title_part {
+	padding-left: 20%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+	float: left;
+	font-size: 40px
+}
+.loading_gif {
+	display:none;
+	float: left;
+}
+div.growlUI {
+	background: url(check49.png)
+	no-repeat 10px 10px;
+	background-size:35px;
+	padding-bottom: 20px;
+}
+div.growlUI h1, div.growlUI h2 {
+	color: white; padding: 5px 5px 5px 75px; text-align: left
+}
+
+.preloader {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: #000;
+	color: #fff;
+	z-index: 9999999;
+}
